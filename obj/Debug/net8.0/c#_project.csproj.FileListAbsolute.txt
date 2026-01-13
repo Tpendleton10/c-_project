@@ -12,3 +12,4 @@ C:\Users\typen\OneDrive\Desktop\c#_project\obj\Debug\net8.0\refint\c#_project.dl
 C:\Users\typen\OneDrive\Desktop\c#_project\obj\Debug\net8.0\c#_project.pdb
 C:\Users\typen\OneDrive\Desktop\c#_project\obj\Debug\net8.0\c#_project.genruntimeconfig.cache
 C:\Users\typen\OneDrive\Desktop\c#_project\obj\Debug\net8.0\ref\c#_project.dll
+C:\Users\typen\OneDrive\Desktop\c#_project\obj\Debug\net8.0\c#_project.sourcelink.json
